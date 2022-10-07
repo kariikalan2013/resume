@@ -1,0 +1,40 @@
+@media screen and(max-width:480px) {
+    #resume .image .col-sm-4 {
+       font-size: 20px;
+       width: 100%;
+    }
+    #resume .image .col-sm-4 #image{
+       height: 30vh;
+       width: 50%;
+       margin: auto;
+    }
+    #resume .image .col-sm-8 {
+       width: 100%;
+    }
+ 
+    #resume .image .col-sm-4 #images {
+       height: 20vh;
+       width: 50%;
+       margin-left: 10vh;
+    }
+ 
+    #resume .image #name {
+       font-size: 20px;
+       width: 100%;
+    }
+ 
+    #resume .objectives .col-sm-4 {
+       font-size: 20px;
+    }
+ 
+    #academic {
+       margin-top: 10px;
+    }
+ 
+    #co-curricular {
+       margin-top: 5px;
+    }
+    .col-sm-8{
+       width: 100% ;
+    }
+ }
